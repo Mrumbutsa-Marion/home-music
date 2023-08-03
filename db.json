@@ -1,74 +1,338 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
-    },
-    {
-      "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
-    },
-    {
-      "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
-    },
-    {
-      "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
-    },
-    {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
-    },
-    {
-      "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
-    },
-    {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
-    },
-    {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
-    }
+  "data": [
+      {
+          "id": 757807,
+          "title": "a decouvrir",
+          "duration": 642,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 3,
+          "fans": 7,
+          "link": "https://www.deezer.com/playlist/757807",
+          "picture": "https://i.pinimg.com/564x/5e/cf/20/5ecf207a9b6e2ade37730dbbb3a4f7bc.jpg",
+          "type": "playlist"
+      },
+      {
+          "id": 2896937,
+          "title": "Detentesss",
+          "duration": 4063,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 17,
+          "fans": 7,
+          "link": "https://www.deezer.com/playlist/2896937",
+          "picture": "https://usercontent.jamendo.com/?type=album&id=474490&width=300&trackid=1925897",
+
+          "type": "playlist"
+      },
+      {
+          "id": 3016655,
+          "title": "Electro",
+          "duration": 22360,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 77,
+          "fans": 64,
+          "link": "https://www.deezer.com/playlist/3016655",
+          "picture": "https://images.jamendo.com/wallposts/73/973.420_315.jpg?du=1644301856",
+
+          "type": "playlist"
+      },
+      {
+          "id": 4033789,
+          "title": "WINDOW",
+          "duration": 2930,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 7,
+          "fans": 4,
+          "link": "https://www.deezer.com/playlist/4033789",
+          "picture": "https://images.jamendo.com/wallposts/5/905.420_315.jpg?du=1596440533",
+         
+          "type": "playlist"
+      },
+      {
+          "id": 4444417,
+          "title": "electro cool",
+          "duration": 1599,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 6,
+          "fans": 18,
+          "link": "https://www.deezer.com/playlist/4444417",
+          "picture": "https://api.deezer.com/playlist/4444417/image",
+          
+          "type": "playlist"
+      },
+      {
+          "id": 4632596,
+          "title": "ELECTROOOO",
+          "duration": 532,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 14,
+          "fans": 3,
+          "link": "https://www.deezer.com/playlist/4632596",
+          "picture": "https://api.deezer.com/playlist/4632596/image",
+         
+          "type": "playlist"
+      },
+      {
+          "id": 4668101,
+          "title": "DECOUVERTE",
+          "duration": 12846,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 51,
+          "fans": 81,
+          "link": "https://www.deezer.com/playlist/4668101",
+          "picture": "https://api.deezer.com/playlist/4668101/image",
+        
+          "type": "playlist"
+      },
+      {
+          "id": 4669750,
+          "title": "Massive Attack",
+          "duration": 1361,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 4,
+          "fans": 13,
+          "link": "https://www.deezer.com/playlist/4669750",
+          "picture": "https://api.deezer.com/playlist/4669750/image",
+         
+          "type": "playlist"
+      },
+      {
+          "id": 7620623,
+          "title": "Electro yeahh",
+          "duration": 522,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 7,
+          "fans": 18,
+          "link": "https://www.deezer.com/playlist/7620623",
+          "picture": "https://api.deezer.com/playlist/7620623/image",
+        
+          "type": "playlist"
+      },
+      {
+          "id": 7620952,
+          "title": "Radio Electro",
+          "duration": 2779,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 17,
+          "fans": 17,
+          "link": "https://www.deezer.com/playlist/7620952",
+          "picture": "https://api.deezer.com/playlist/7620952/image",
+        
+          "type": "playlist"
+      },
+      {
+          "id": 26680384,
+          "title": "Muse",
+          "duration": 3910,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 15,
+          "fans": 0,
+          "link": "https://www.deezer.com/playlist/26680384",
+          "picture": "https://api.deezer.com/playlist/26680384/image",
+        
+          "type": "playlist"
+      },
+      {
+          "id": 29423539,
+          "title": "Pony Pony Run Run",
+          "duration": 580,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 3,
+          "fans": 0,
+          "link": "https://www.deezer.com/playlist/29423539",
+          "picture": "https://api.deezer.com/playlist/29423539/image",
+        
+          "type": "playlist"
+      },
+      {
+          "id": 30595446,
+          "title": "Best Playlist EVER !!",
+          "duration": 41226,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 175,
+          "fans": 813,
+          "link": "https://www.deezer.com/playlist/30595446",
+          "picture": "https://api.deezer.com/playlist/30595446/image",
+         
+          "type": "playlist"
+      },
+      {
+          "id": 30604082,
+          "title": "so COOOOLLLL",
+          "duration": 1998,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 8,
+          "fans": 1,
+          "link": "https://www.deezer.com/playlist/30604082",
+          "picture": "https://api.deezer.com/playlist/30604082/image",
+          "type": "playlist"
+      },
+      {
+          "id": 34503492,
+          "title": "Muse Concert Bercy 17-11-2009",
+          "duration": 5596,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 18,
+          "fans": 0,
+          "link": "https://www.deezer.com/playlist/34503492",
+          "picture": "https://api.deezer.com/playlist/34503492/image",
+        
+          "type": "playlist"
+      },
+      {
+          "id": 34652457,
+          "title": "Muse unknown",
+          "duration": 2506,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 12,
+          "fans": 1,
+          "link": "https://www.deezer.com/playlist/34652457",
+          "picture": "https://api.deezer.com/playlist/34652457/image",
+         
+          "type": "playlist"
+      },
+      {
+          "id": 34775512,
+          "title": "Dr House",
+          "duration": 1970,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 7,
+          "fans": 0,
+          "link": "https://www.deezer.com/playlist/34775512",
+          "picture": "https://api.deezer.com/playlist/34775512/image",
+        
+          "type": "playlist"
+      },
+      {
+          "id": 38060979,
+          "title": "From OuiLoveDEEZER",
+          "duration": 1348,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 6,
+          "fans": 0,
+          "link": "https://www.deezer.com/playlist/38060979",
+          "picture": "https://api.deezer.com/playlist/38060979/image",
+         
+          "type": "playlist"
+      },
+      {
+          "id": 38228148,
+          "title": "Phoenix",
+          "duration": 2186,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 10,
+          "fans": 2,
+          "link": "https://www.deezer.com/playlist/38228148",
+          "picture": "https://api.deezer.com/playlist/38228148/image",
+          
+          "type": "playlist"
+      },
+      {
+          "id": 38559351,
+          "title": "All Good",
+          "duration": 13296,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 58,
+          "fans": 7,
+          "link": "https://www.deezer.com/playlist/38559351",
+          "picture": "https://api.deezer.com/playlist/38559351/image",
+         
+          "type": "playlist"
+      },
+      {
+          "id": 42867046,
+          "title": "radio electro",
+          "duration": 9281,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 37,
+          "fans": 0,
+          "link": "https://www.deezer.com/playlist/42867046",
+          "picture": "https://api.deezer.com/playlist/42867046/image",
+          
+          "type": "playlist"
+      },
+      {
+          "id": 42905633,
+          "title": "Eletro from radio deezer",
+          "duration": 9117,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 36,
+          "fans": 0,
+          "link": "https://www.deezer.com/playlist/42905633",
+          "picture": "https://api.deezer.com/playlist/42905633/image",
+        
+          "type": "playlist"
+      },
+      {
+          "id": 43036491,
+          "title": "radio pop",
+          "duration": 7881,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 39,
+          "fans": 1,
+          "link": "https://www.deezer.com/playlist/43036491",
+          "picture": "https://api.deezer.com/playlist/43036491/image",
+         
+          "type": "playlist"
+      },
+      {
+          "id": 45683464,
+          "title": "00 - Soirée",
+          "duration": 6431,
+          "public": true,
+          "is_loved_track": false,
+          "collaborative": false,
+          "nb_tracks": 26,
+          "fans": 55,
+          "link": "https://www.deezer.com/playlist/45683464",
+          "picture": "https://api.deezer.com/playlist/45683464/image",
+        
+          "type": "playlist"
+      }
   ]
 }
