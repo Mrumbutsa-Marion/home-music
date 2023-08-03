@@ -1,338 +1,245 @@
 {
-  "data": [
-      {
-          "id": 757807,
-          "title": "a decouvrir",
-          "duration": 642,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 3,
-          "fans": 7,
-          "link": "https://www.deezer.com/playlist/757807",
-          "picture": "https://i.pinimg.com/564x/5e/cf/20/5ecf207a9b6e2ade37730dbbb3a4f7bc.jpg",
-          "type": "playlist"
-      },
-      {
-          "id": 2896937,
-          "title": "Detentesss",
-          "duration": 4063,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 17,
-          "fans": 7,
-          "link": "https://www.deezer.com/playlist/2896937",
-          "picture": "https://usercontent.jamendo.com/?type=album&id=474490&width=300&trackid=1925897",
-
-          "type": "playlist"
-      },
-      {
-          "id": 3016655,
-          "title": "Electro",
-          "duration": 22360,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 77,
-          "fans": 64,
-          "link": "https://www.deezer.com/playlist/3016655",
-          "picture": "https://images.jamendo.com/wallposts/73/973.420_315.jpg?du=1644301856",
-
-          "type": "playlist"
-      },
-      {
-          "id": 4033789,
-          "title": "WINDOW",
-          "duration": 2930,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 7,
-          "fans": 4,
-          "link": "https://www.deezer.com/playlist/4033789",
-          "picture": "https://images.jamendo.com/wallposts/5/905.420_315.jpg?du=1596440533",
-         
-          "type": "playlist"
-      },
-      {
-          "id": 4444417,
-          "title": "electro cool",
-          "duration": 1599,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 6,
-          "fans": 18,
-          "link": "https://www.deezer.com/playlist/4444417",
-          "picture": "https://api.deezer.com/playlist/4444417/image",
-          
-          "type": "playlist"
-      },
-      {
-          "id": 4632596,
-          "title": "ELECTROOOO",
-          "duration": 532,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 14,
-          "fans": 3,
-          "link": "https://www.deezer.com/playlist/4632596",
-          "picture": "https://api.deezer.com/playlist/4632596/image",
-         
-          "type": "playlist"
-      },
-      {
-          "id": 4668101,
-          "title": "DECOUVERTE",
-          "duration": 12846,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 51,
-          "fans": 81,
-          "link": "https://www.deezer.com/playlist/4668101",
-          "picture": "https://api.deezer.com/playlist/4668101/image",
-        
-          "type": "playlist"
-      },
-      {
-          "id": 4669750,
-          "title": "Massive Attack",
-          "duration": 1361,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 4,
-          "fans": 13,
-          "link": "https://www.deezer.com/playlist/4669750",
-          "picture": "https://api.deezer.com/playlist/4669750/image",
-         
-          "type": "playlist"
-      },
-      {
-          "id": 7620623,
-          "title": "Electro yeahh",
-          "duration": 522,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 7,
-          "fans": 18,
-          "link": "https://www.deezer.com/playlist/7620623",
-          "picture": "https://api.deezer.com/playlist/7620623/image",
-        
-          "type": "playlist"
-      },
-      {
-          "id": 7620952,
-          "title": "Radio Electro",
-          "duration": 2779,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 17,
-          "fans": 17,
-          "link": "https://www.deezer.com/playlist/7620952",
-          "picture": "https://api.deezer.com/playlist/7620952/image",
-        
-          "type": "playlist"
-      },
-      {
-          "id": 26680384,
-          "title": "Muse",
-          "duration": 3910,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 15,
-          "fans": 0,
-          "link": "https://www.deezer.com/playlist/26680384",
-          "picture": "https://api.deezer.com/playlist/26680384/image",
-        
-          "type": "playlist"
-      },
-      {
-          "id": 29423539,
-          "title": "Pony Pony Run Run",
-          "duration": 580,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 3,
-          "fans": 0,
-          "link": "https://www.deezer.com/playlist/29423539",
-          "picture": "https://api.deezer.com/playlist/29423539/image",
-        
-          "type": "playlist"
-      },
-      {
-          "id": 30595446,
-          "title": "Best Playlist EVER !!",
-          "duration": 41226,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 175,
-          "fans": 813,
-          "link": "https://www.deezer.com/playlist/30595446",
-          "picture": "https://api.deezer.com/playlist/30595446/image",
-         
-          "type": "playlist"
-      },
-      {
-          "id": 30604082,
-          "title": "so COOOOLLLL",
-          "duration": 1998,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 8,
-          "fans": 1,
-          "link": "https://www.deezer.com/playlist/30604082",
-          "picture": "https://api.deezer.com/playlist/30604082/image",
-          "type": "playlist"
-      },
-      {
-          "id": 34503492,
-          "title": "Muse Concert Bercy 17-11-2009",
-          "duration": 5596,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 18,
-          "fans": 0,
-          "link": "https://www.deezer.com/playlist/34503492",
-          "picture": "https://api.deezer.com/playlist/34503492/image",
-        
-          "type": "playlist"
-      },
-      {
-          "id": 34652457,
-          "title": "Muse unknown",
-          "duration": 2506,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 12,
-          "fans": 1,
-          "link": "https://www.deezer.com/playlist/34652457",
-          "picture": "https://api.deezer.com/playlist/34652457/image",
-         
-          "type": "playlist"
-      },
-      {
-          "id": 34775512,
-          "title": "Dr House",
-          "duration": 1970,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 7,
-          "fans": 0,
-          "link": "https://www.deezer.com/playlist/34775512",
-          "picture": "https://api.deezer.com/playlist/34775512/image",
-        
-          "type": "playlist"
-      },
-      {
-          "id": 38060979,
-          "title": "From OuiLoveDEEZER",
-          "duration": 1348,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 6,
-          "fans": 0,
-          "link": "https://www.deezer.com/playlist/38060979",
-          "picture": "https://api.deezer.com/playlist/38060979/image",
-         
-          "type": "playlist"
-      },
-      {
-          "id": 38228148,
-          "title": "Phoenix",
-          "duration": 2186,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 10,
-          "fans": 2,
-          "link": "https://www.deezer.com/playlist/38228148",
-          "picture": "https://api.deezer.com/playlist/38228148/image",
-          
-          "type": "playlist"
-      },
-      {
-          "id": 38559351,
-          "title": "All Good",
-          "duration": 13296,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 58,
-          "fans": 7,
-          "link": "https://www.deezer.com/playlist/38559351",
-          "picture": "https://api.deezer.com/playlist/38559351/image",
-         
-          "type": "playlist"
-      },
-      {
-          "id": 42867046,
-          "title": "radio electro",
-          "duration": 9281,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 37,
-          "fans": 0,
-          "link": "https://www.deezer.com/playlist/42867046",
-          "picture": "https://api.deezer.com/playlist/42867046/image",
-          
-          "type": "playlist"
-      },
-      {
-          "id": 42905633,
-          "title": "Eletro from radio deezer",
-          "duration": 9117,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 36,
-          "fans": 0,
-          "link": "https://www.deezer.com/playlist/42905633",
-          "picture": "https://api.deezer.com/playlist/42905633/image",
-        
-          "type": "playlist"
-      },
-      {
-          "id": 43036491,
-          "title": "radio pop",
-          "duration": 7881,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 39,
-          "fans": 1,
-          "link": "https://www.deezer.com/playlist/43036491",
-          "picture": "https://api.deezer.com/playlist/43036491/image",
-         
-          "type": "playlist"
-      },
-      {
-          "id": 45683464,
-          "title": "00 - Soirée",
-          "duration": 6431,
-          "public": true,
-          "is_loved_track": false,
-          "collaborative": false,
-          "nb_tracks": 26,
-          "fans": 55,
-          "link": "https://www.deezer.com/playlist/45683464",
-          "picture": "https://api.deezer.com/playlist/45683464/image",
-        
-          "type": "playlist"
-      }
+  "films": [
+    {
+      "id": "1",
+      "title": "Now You Know",
+      "genre": " Action, Adventure, Drama",
+      "runtime": "108",
+      "capacity": 30,
+      "showtime": "04:00PM",
+      "linkininfo": "https://www.deezer.com/us/album/456197735",
+      "tickets_sold": 27,
+      "description": "When a goddess of war reincarnates in the body of a young girl, street orphan Seiya discovers that he is destined to protect her and save the world. But only if he can face his own past and become a Knight of the Zodiac.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/93efea657a8e47c4e96b6af128ae5e03/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Victims of Madness",
+      "genre": "Animation, Adventure, Comedy ",
+      "runtime": "118",
+      "capacity": 50,
+      "showtime": "06:45PM",
+      "linkininfo": "https://www.deezer.com/us/album/209959792",
+      "tickets_sold": 44,
+      "description": "The story of The Super Mario Bros. on their journey through the Mushroom Kingdom.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/7094feb70fb9b61d1ae64c895cf9caf9/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "3",
+      "title": "19 & Dangerous ",
+      "genre": "Action, Adventure, Comedy ",
+      "runtime": "93",
+      "capacity": 50,
+      "showtime": "09:30PM",
+      "linkininfo": "https://www.deezer.com/us/album/246125202",
+      "tickets_sold": 31,
+      "description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/b922c719d3a9901f749140e8f532a8d0/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Second Wave Deluxe",
+      "genre": " Animation, Adventure, Comedy ",
+      "runtime": "101",
+      "capacity": 40,
+      "showtime": "09:00PM",
+      "linkininfo": "https://www.deezer.com/us/album/323365937",
+      "tickets_sold": 31,
+      "description": "Mavka must choose between love and duty to protect the Heart of the Forest.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/2042fbd5b9116b2a12991e5d77024b3f/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Ayra Starr",
+      "genre": "Action, Thriller",
+      "runtime": "96",
+      "capacity": 50,
+      "showtime": "03:30PM",
+      "linkininfo": "https://www.deezer.com/us/album/180517472",
+      "tickets_sold": 45,
+      "description": "After barely surviving his grievous wounds from his mission in Dhaka, Bangladesh, Tyler Rake is back, and his team is ready to take on their next mission.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/24407cf49fdf864463cb5ca5ad974630/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Culture II",
+      "genre": "Short, Action, Adventure, Comedy, Fantasy ",
+      "runtime": "112",
+      "capacity": 30,
+      "showtime": "10:30PM",
+      "linkininfo": "https://www.deezer.com/us/album/55727052",
+      "tickets_sold": 16,
+      "description": "To overcome his creative block and pull off an impossible deadline, fledgling comic artist Neil must enter the world of his leading character: the mysterious Mistress Of The Forest.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Exolit Still On Lock Vol 1 ",
+      "genre": "Animation, Fantasy ",
+      "runtime": "94",
+      "capacity": 30,
+      "showtime": "07:30PM",
+      "linkininfo": "https://www.deezer.com/us/album/87268842",
+      "tickets_sold": 22,
+      "description": "An Irish boy named Keegan and a Spanish girl named Moya journey into the mythical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/b2f1f5a6263198b34709f5778b365a7b/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "8",
+      "title": "100% Nicki Minaj",
+      "genre": "Animation, Action, Adventure ",
+      "runtime": "115",
+      "capacity": 40,
+      "showtime": "08:30PM",
+      "linkininfo": "https://www.deezer.com/us/playlist/4191324122",
+      "tickets_sold": 32,
+      "description": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+      "poster": "https://e-cdns-images.dzcdn.net/images/playlist/52b470becad5b586a8374dc94c28977b/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "9",
+      "title": "MigoThuggin - Part II ",
+      "genre": " Action, Crime, Thriller ",
+      "runtime": "99",
+      "capacity": 40,
+      "showtime": "07:30PM",
+      "linkininfo": "https://www.deezer.com/us/album/13903334",
+      "tickets_sold": 22,
+      "description": "AJohn Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/6aae214ec8c027cf7d04c4af3c518bfe/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Realer",
+      "genre": "Action, Adventure, Crime",
+      "runtime": "122",
+      "capacity": 50,
+      "showtime": "10:00PM",
+      "linkininfo": "https://www.deezer.com/us/album/385052657",
+      "tickets_sold": 44,
+      "description": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/980f54e6523cc70a5e850091529b7605/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Nobody Is Listening ",
+      "genre": " Action, Crime, Thriller",
+      "runtime": "104",
+      "capacity": 30,
+      "showtime": "06:00PM",
+      "linkininfo": "https://www.deezer.com/us/album/199203852",
+      "tickets_sold": 12,
+      "description": "A man dies as part of an experimental military program. A former black-ops soldier takes his place to find who killed him.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/4cdd80cdfd1b309d25e6c09be8cce47c/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "12",
+      "title": "We Made It",
+      "genre": "Action, Thriller",
+      "runtime": "104",
+      "capacity": 30,
+      "showtime": "07:00PM",
+      "linkininfo": "https://www.deezer.com/us/album/115974932",
+      "tickets_sold": 20,
+      "description": "Mercenaries seize control of a remote resort hotel during a wedding and it's up to the best man, the groom and their drunken best friend to stop the terrorists and save the hostages.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/b70a6862bbad01f0771eb0e98d1f65d4/264x264-000000-80-0-0.jpg",
+      "showing_id": "12"
+    },
+    {
+      "id": "13",
+      "title": "Silver Tongues",
+      "genre": "Horror, Thriller ",
+      "runtime": "100",
+      "capacity": 40,
+      "showtime": "09:00PM",
+      "linkininfo": "https://www.deezer.com/us/album/371102327",
+      "tickets_sold": 31,
+      "description": "On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he is a demon, and further claims that before their time is over, the psychiatrist will commit three murders of his own.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/4eb6c750fc7badd7c2678cb50bf0edc9/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "14",
+      "title": "CALM",
+      "genre": "Action, Adventure, Comedy",
+      "runtime": "111",
+      "capacity": 50,
+      "showtime": "08:00PM",
+      "linkininfo": "https://www.deezer.com/us/album/168875972",
+      "tickets_sold": 40,
+      "description": "Stranded on a crumbling rig in Baja, a family faces off against a vengeful megalodon shark.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/deee07b281cad6176f2156fc9a713809/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Retro Soul 🛼",
+      "genre": "Horror, Sci-Fi, Thriller ",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "linkininfo": "https://www.deezer.com/us/playlist/11031322722",
+      "tickets_sold": 33,
+      "description": "Delinquent teen-agers ingest a substance and grow thirty feet tall, then proceed to take over a small town.",
+      "poster": "https://e-cdns-images.dzcdn.net/images/playlist/ffa7e81a85c785dd0603b6a3ac4bf5d1/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "16",
+      "title": "WADA (The Healing of a Nation)",
+      "genre": " Animation, Comedy, Family ",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "linkininfo": "https://www.deezer.com/us/album/281233241",
+      "tickets_sold": 33,
+      "description": "It follows three mummies as they end up in present-day London and embark on a journey in search of an old ring belonging to the Royal Family, stolen by the ambitious archaeologist Lord Carnaby.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/f7fdca8f9358af3a1a74b52a27e85db0/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Beautiful",
+      "genre": "Horror, Thriller ",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "linkininfo": "https://www.deezer.com/us/album/453664655",
+      "tickets_sold": 33,
+      "description": "Sam receives a call from Emily a nearly blind woman who is running from her murderous ex in the woods. She must survive the ordeal with Sam being her eyes using video call.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/f3d3a001d13c07e2c72853d7ce46fc5e/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Midnight Train",
+      "genre": "Action, Adventure, Sci-Fi ",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "linkininfo": "https://www.deezer.com/us/album/149077512",
+      "tickets_sold": 33,
+      "description": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/f093ffa4a33bc988398fcaeca86d2086/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "19",
+      "title": "The Khali Cartel",
+      "genre": "Action, Sci-Fi",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "linkininfo": "https://www.deezer.com/us/album/85475302",
+      "tickets_sold": 33,
+      "description": "A team of thieves use a drug that allows them to trade consciousnesses with their future-selves in order to steal tomorrow's secrets.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/5fbb079edbdfd913db4825f9de31e88e/264x264-000000-80-0-0.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Afrikan Sauce",
+      "genre": "Action, Sci-Fi, Thrille",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "linkininfo": "https://www.deezer.com/us/album/343204177",
+      "tickets_sold": 33,
+      "description": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.",
+      "poster": "https://e-cdn-images.dzcdn.net/images/cover/1fb5201d2e6f221669afb43bcc031e13/264x264-000000-80-0-0.jpg"
+    }
   ]
 }
